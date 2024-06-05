@@ -5,6 +5,11 @@ Uifry clone is a web application designed to help users make better financial de
 
 ---
 
+# Live Links
+
+Vercel: https://uifry-clone-ecru.vercel.app/ <br> <br>
+Github: https://shahbazalamjobs.github.io/Uifry-clone/
+
 # Project: Uifry - Financial Decision-Making Web App
 
 ## Overview
