@@ -1,9 +1,7 @@
 
 # Uifry
 
-Uifry is a web application designed to help users make better financial decisions. It provides features for budgeting, finance management, and more.
-
-Sure, here's a revised version of your project with a more human-friendly developer's description:
+Uifry clone is a web application designed to help users make better financial decisions. It provides features for budgeting, finance management, and more.
 
 ---
 
@@ -15,8 +13,6 @@ Uifry is a modern web application designed to help users make better financial d
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
-- Font Share API
 
 ## Features
 
@@ -61,13 +57,8 @@ Uifry aims to revolutionize financial management by offering a seamless user exp
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
-3. Install dependencies using `npm install` or `yarn install`.
-4. Start the development server using `npm start` or `yarn start`.
-5. Open your web browser and visit `http://localhost:3000` to view the project.
-
-## Design Choices and Libraries Used
-
-- Used HTML, CSS only
+3. Open with liveserver or copy index.html path.
+5. Open your web browser and visit `[http://localhost:3000](http://127.0.0.1:5500/index.html)` to view the project.
 
 ## Figma Design Link
 
