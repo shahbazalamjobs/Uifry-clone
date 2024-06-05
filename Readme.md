@@ -58,7 +58,7 @@ Uifry aims to revolutionize financial management by offering a seamless user exp
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Open with liveserver or copy index.html path.
-5. Open your web browser and visit `[http://localhost:3000](http://127.0.0.1:5500/index.html)` to view the project.
+5. Open your web browser and visit http://127.0.0.1:5500/index.html to view the project.
 
 ## Figma Design Link
 
